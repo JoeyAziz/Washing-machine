@@ -1,0 +1,109 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "led1",
+					"strict" : false
+				},
+				{
+					"name" : "led2",
+					"strict" : false
+				},
+				{
+					"name" : "led3",
+					"strict" : false
+				},
+				{
+					"name" : "motor",
+					"strict" : false
+				},
+				{
+					"name" : "buzzer",
+					"strict" : false
+				},
+				{
+					"name" : "waterPump",
+					"strict" : false
+				},
+				{
+					"name" : "hex[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex[6]",
+					"strict" : false
+				},
+				{
+					"name" : "iHex[0]",
+					"strict" : false
+				},
+				{
+					"name" : "iHex[2]",
+					"strict" : false
+				},
+				{
+					"name" : "iHex[3]",
+					"strict" : false
+				},
+				{
+					"name" : "iHex[4]",
+					"strict" : false
+				},
+				{
+					"name" : "iHex[5]",
+					"strict" : false
+				},
+				{
+					"name" : "iHex[6]",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "item1",
+					"strict" : false
+				},
+				{
+					"name" : "item2",
+					"strict" : false
+				},
+				{
+					"name" : "item3",
+					"strict" : false
+				},
+				{
+					"name" : "item4",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

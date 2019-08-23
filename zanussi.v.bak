@@ -1,0 +1,8 @@
+module zanussi(led1,led2,led3);
+
+output  led1 = 1,
+			led2 = 1,
+			led3 = 1;
+reg  led1,led2,led3;
+
+endmodule;
